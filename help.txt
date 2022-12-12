@@ -1,0 +1,15 @@
+﻿Igor
+  3 д. назад
+У меня тоже не появлялась у установил gh-pages.
+В консоль 'npm i gh-pages'
+Добавить строку "deploy": "gh-pages -d build", в файл pakage.json  "scripts"
+Потом npm run build
+Потом npm run deploy
+
+Igor
+  3 �. �����
+� ���� ���� �� ���������� � ��������� gh-pages.
+� ������� 'npm i gh-pages'
+�������� ������ "deploy": "gh-pages -d build", � ���� pakage.json  "scripts"
+����� npm run build
+����� npm run deploy
